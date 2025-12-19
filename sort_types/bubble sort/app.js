@@ -49,3 +49,20 @@ console.log(heightChecker(heights)); // 3
 function myFunc() {
   console.log("hello world");
 }
+
+
+// const numbers = [5, 4, 3, 2, 1];
+
+// let n = numbers.length - 1;
+
+// for (let i = 0; i < n; i++) {
+//   let swapped = false;
+//   for (let j = 0; j < n - i; j++) {
+//     if (numbers[j] > numbers[j + 1]) {
+//       swapped = true;
+//       [numbers[j], numbers[j + 1]] = [numbers[j + 1], numbers[j]];
+//     }
+//   }
+//   if (!swapped) break;
+//   console.log(numbers);
+// }
